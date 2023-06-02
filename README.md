@@ -82,5 +82,11 @@
   # *(와일드카드)를 붙이면 이름을 생략할 수 있다. ✡️
   
   ![image](https://github.com/hyo0o0o/sass/assets/129016961/87c75de4-87e3-4ca5-b6fe-efa1e741810a)
+  
+  
+  # 전역변수와 지역변수
+  
+  ![image](https://github.com/hyo0o0o/sass/assets/129016961/9901d164-8a88-4412-a2f5-ae8f74d47661)
+
 
 
